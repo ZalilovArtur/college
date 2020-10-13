@@ -1,0 +1,30 @@
+C:\Users\Артур\Desktop\Lucid\lucid\LucidWPF\LucidWPF\bin\Debug\LucidWPF.exe.config
+C:\Users\Артур\Desktop\Lucid\lucid\LucidWPF\LucidWPF\bin\Debug\LucidWPF.exe
+C:\Users\Артур\Desktop\Lucid\lucid\LucidWPF\LucidWPF\bin\Debug\LucidWPF.pdb
+C:\Users\Артур\Desktop\Lucid\lucid\LucidWPF\LucidWPF\obj\Debug\LucidWPF.csprojAssemblyReference.cache
+C:\Users\Артур\Desktop\Lucid\lucid\LucidWPF\LucidWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Артур\Desktop\Lucid\lucid\LucidWPF\LucidWPF\obj\Debug\App.g.cs
+C:\Users\Артур\Desktop\Lucid\lucid\LucidWPF\LucidWPF\obj\Debug\LucidWPF_MarkupCompile.cache
+C:\Users\Артур\Desktop\Lucid\lucid\LucidWPF\LucidWPF\obj\Debug\LucidWPF_MarkupCompile.lref
+C:\Users\Артур\Desktop\Lucid\lucid\LucidWPF\LucidWPF\obj\Debug\MainWindow.baml
+C:\Users\Артур\Desktop\Lucid\lucid\LucidWPF\LucidWPF\obj\Debug\LucidWPF.g.resources
+C:\Users\Артур\Desktop\Lucid\lucid\LucidWPF\LucidWPF\obj\Debug\LucidWPF.Properties.Resources.resources
+C:\Users\Артур\Desktop\Lucid\lucid\LucidWPF\LucidWPF\obj\Debug\LucidWPF.csproj.GenerateResource.cache
+C:\Users\Артур\Desktop\Lucid\lucid\LucidWPF\LucidWPF\obj\Debug\LucidWPF.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\Lucid\lucid\LucidWPF\LucidWPF\obj\Debug\LucidWPF.exe
+C:\Users\Артур\Desktop\Lucid\lucid\LucidWPF\LucidWPF\obj\Debug\LucidWPF.pdb
+C:\Users\Артур\Desktop\ЮУГК\3 курс\XAML (Маслов Р.А.)\Lucid\lucid\LucidWPF\LucidWPF\bin\Debug\LucidWPF.exe.config
+C:\Users\Артур\Desktop\ЮУГК\3 курс\XAML (Маслов Р.А.)\Lucid\lucid\LucidWPF\LucidWPF\bin\Debug\LucidWPF.exe
+C:\Users\Артур\Desktop\ЮУГК\3 курс\XAML (Маслов Р.А.)\Lucid\lucid\LucidWPF\LucidWPF\bin\Debug\LucidWPF.pdb
+C:\Users\Артур\Desktop\ЮУГК\3 курс\XAML (Маслов Р.А.)\Lucid\lucid\LucidWPF\LucidWPF\obj\Debug\LucidWPF.csprojAssemblyReference.cache
+C:\Users\Артур\Desktop\ЮУГК\3 курс\XAML (Маслов Р.А.)\Lucid\lucid\LucidWPF\LucidWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Артур\Desktop\ЮУГК\3 курс\XAML (Маслов Р.А.)\Lucid\lucid\LucidWPF\LucidWPF\obj\Debug\App.g.cs
+C:\Users\Артур\Desktop\ЮУГК\3 курс\XAML (Маслов Р.А.)\Lucid\lucid\LucidWPF\LucidWPF\obj\Debug\LucidWPF_MarkupCompile.cache
+C:\Users\Артур\Desktop\ЮУГК\3 курс\XAML (Маслов Р.А.)\Lucid\lucid\LucidWPF\LucidWPF\obj\Debug\LucidWPF_MarkupCompile.lref
+C:\Users\Артур\Desktop\ЮУГК\3 курс\XAML (Маслов Р.А.)\Lucid\lucid\LucidWPF\LucidWPF\obj\Debug\MainWindow.baml
+C:\Users\Артур\Desktop\ЮУГК\3 курс\XAML (Маслов Р.А.)\Lucid\lucid\LucidWPF\LucidWPF\obj\Debug\LucidWPF.g.resources
+C:\Users\Артур\Desktop\ЮУГК\3 курс\XAML (Маслов Р.А.)\Lucid\lucid\LucidWPF\LucidWPF\obj\Debug\LucidWPF.Properties.Resources.resources
+C:\Users\Артур\Desktop\ЮУГК\3 курс\XAML (Маслов Р.А.)\Lucid\lucid\LucidWPF\LucidWPF\obj\Debug\LucidWPF.csproj.GenerateResource.cache
+C:\Users\Артур\Desktop\ЮУГК\3 курс\XAML (Маслов Р.А.)\Lucid\lucid\LucidWPF\LucidWPF\obj\Debug\LucidWPF.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\ЮУГК\3 курс\XAML (Маслов Р.А.)\Lucid\lucid\LucidWPF\LucidWPF\obj\Debug\LucidWPF.exe
+C:\Users\Артур\Desktop\ЮУГК\3 курс\XAML (Маслов Р.А.)\Lucid\lucid\LucidWPF\LucidWPF\obj\Debug\LucidWPF.pdb
